@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pizza-menu/static/js/main.dc987991.js",
+    "index.html": "/pizza-menu/index.html",
+    "main.dc987991.js.map": "/pizza-menu/static/js/main.dc987991.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc987991.js"
+  ]
+}
