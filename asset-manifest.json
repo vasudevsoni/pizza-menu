@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.js": "/pizza-menu/static/js/main.dc987991.js",
+    "main.css": "/pizza-menu/static/css/main.2b703059.css",
+    "main.js": "/pizza-menu/static/js/main.4bbd43c7.js",
+    "static/media/funghi.jpg": "/pizza-menu/static/media/funghi.3bf98b594acb0c6c7910.jpg",
+    "static/media/margherita.jpg": "/pizza-menu/static/media/margherita.05c7f4dba268fc2ddab1.jpg",
+    "static/media/spinaci.jpg": "/pizza-menu/static/media/spinaci.9c5a8a68fb98b5b69bc8.jpg",
+    "static/media/prosciutto.jpg": "/pizza-menu/static/media/prosciutto.936205a0bf7285dc2294.jpg",
+    "static/media/salamino.jpg": "/pizza-menu/static/media/salamino.0189c48034992ea8ff6d.jpg",
+    "static/media/focaccia.jpg": "/pizza-menu/static/media/focaccia.94c1af05b10f3489f025.jpg",
     "index.html": "/pizza-menu/index.html",
-    "main.dc987991.js.map": "/pizza-menu/static/js/main.dc987991.js.map"
+    "main.2b703059.css.map": "/pizza-menu/static/css/main.2b703059.css.map",
+    "main.4bbd43c7.js.map": "/pizza-menu/static/js/main.4bbd43c7.js.map"
   },
   "entrypoints": [
-    "static/js/main.dc987991.js"
+    "static/css/main.2b703059.css",
+    "static/js/main.4bbd43c7.js"
   ]
 }
