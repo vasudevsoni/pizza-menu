@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;1,300&display=swap");
 
 * {
   margin: 0;
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto Mono', sans-serif;
+  font-family: "Roboto Mono", sans-serif;
   color: #252525;
   font-weight: 400;
   background-color: #f7f2e9;
@@ -55,9 +55,9 @@ body {
 .header h1::before,
 .header h1::after {
   display: block;
-  content: '';
+  content: "";
   height: 3px;
-  width: 12rem;
+  width: 4rem;
   background-color: #edc84b;
   position: absolute;
   top: calc(50% - 1px);
@@ -82,13 +82,13 @@ body {
 
 .menu h2 {
   display: inline-block;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   border-top: 2px solid currentColor;
   border-bottom: 2px solid currentColor;
-  font-size: 2.4rem;
+  font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .menu > p {
@@ -119,12 +119,13 @@ body {
 .pizza div {
   display: flex;
   flex-direction: column;
-  gap: 0.8rem;
+  justify-content: center;
+  gap: 0.7rem;
   padding: 0.4rem 0;
 }
 
 .pizza h3 {
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 400;
 }
 
@@ -132,12 +133,16 @@ body {
   font-size: 1.4rem;
   font-weight: 300;
   font-style: italic;
-  margin-bottom: auto;
 }
 
 .pizza span {
-  display: block;
-  font-size: 1.6rem;
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 300;
+  padding: 2px 6px;
+  max-width: fit-content;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .pizza.sold-out {
