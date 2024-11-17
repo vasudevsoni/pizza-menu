@@ -2,13 +2,9 @@
 
 <p>The <strong>Pizza Menu App</strong> is a simple React.js application that displays a static menu for a pizza restaurant. It showcases a variety of pizzas along with their descriptions, ingredients, and prices.</p>
 
-<hr>
-
 <h2>🌐 Live Demo</h2>
 
-<p>A live version of the Pizza Menu App can be found <a href="https://your-demo-link.com">here</a>. <!-- Replace with actual link if hosted --></p>
-
-<hr>
+<p>A live version of the Pizza Menu App can be found <a href="https://vasudevsoni.github.io/pizza-menu">here</a>. <!-- Replace with actual link if hosted --></p>
 
 <h2>📚 Table of Contents</h2>
 <ul>
@@ -18,8 +14,6 @@
   <li><a href="#contributing">Contributing</a></li>
 </ul>
 
-<hr>
-
 <h2 id="features">✨ Features</h2>
 <ul>
   <li><strong>Static Pizza Menu:</strong> View a curated list of pizzas offered by the restaurant.</li>
@@ -27,12 +21,10 @@
   <li><strong>Simple and Responsive Design:</strong> Optimized for desktop and mobile screens.</li>
 </ul>
 
-<hr>
-
 <h2 id="installation">⚙️ Installation</h2>
 <ol>
   <li><strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/yourusername/pizza-menu-app.git
+    <pre><code>git clone https://github.com/vasudevsoni/pizza-menu.git
 cd pizza-menu-app
     </code></pre>
   </li>
@@ -47,15 +39,11 @@ cd pizza-menu-app
   </li>
 </ol>
 
-<hr>
-
 <h2 id="usage">🚀 Usage</h2>
 <ul>
   <li><strong>View the Menu:</strong> Launch the app to explore the static pizza menu.</li>
   <li><strong>Browse Pizzas:</strong> Check out the available pizzas, their ingredients, and prices.</li>
 </ul>
-
-<hr>
 
 <h2 id="contributing">🤝 Contributing</h2>
 <p>Contributions are welcome! To contribute:</p>
@@ -72,7 +60,5 @@ git push origin feature/your-feature
   </li>
   <li><strong>Open a pull request.</strong></li>
 </ol>
-
-<hr>
 
 <p>Enjoy browsing the menu on the <strong>Pizza Menu App</strong>! 🍕</p>
